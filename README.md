@@ -59,7 +59,8 @@ The system also provides an **Admin module** for managing products, inventory, c
 | Layer           | Technology            |
 | --------------- | --------------------- |
 | Frontend        | HTML, CSS, JavaScript |
-| Styling         | Tailwind CSS          |
+|                 | ,React                |
+| Styling         | CSS                   |
 | Backend         | Java, Spring Boot     |
 | Architecture    | MVC                   |
 | Database        | PostgreSQL            |
